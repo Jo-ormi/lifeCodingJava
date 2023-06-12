@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/data_and_operation/data_and_operation.iml" filepath="$PROJECT_DIR$/data_and_operation/data_and_operation.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/flow_control/flow_control.iml" filepath="$PROJECT_DIR$/flow_control/flow_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/programing/programing.iml" filepath="$PROJECT_DIR$/programing/programing.iml" />
